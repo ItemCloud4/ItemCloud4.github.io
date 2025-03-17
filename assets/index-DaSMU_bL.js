@@ -1,1 +1,0 @@
-import{j as r,f as s}from"./index-B20k8_z8.js";const p=({children:a})=>r.jsx("h2",{className:s.paragraf5_b,children:a}),e=({children:a})=>r.jsx("h2",{className:s.paragraf5_g,children:a});export{e as P,p as a};
