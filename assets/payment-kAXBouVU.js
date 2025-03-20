@@ -1,1 +1,0 @@
-import{n as a,r as n}from"./index-J51-KWIi.js";const m=a("payment",()=>{const t=n("Сбербанк"),e=n("#33245283974927"),o=n("+7 (900)-000-00-00"),r=n(300),s=n("₽");return{bankName:t,transactionId:e,number:o,amount:r,currency:s}});export{m as u};
